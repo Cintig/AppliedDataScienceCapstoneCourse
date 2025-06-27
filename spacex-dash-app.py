@@ -1,3 +1,4 @@
+# This is the solution of the second lab of module 3 called Hands-on Lab: Build an Interactive Dashboard with Plotly Dash
 # Import required libraries
 import pandas as pd
 import dash
